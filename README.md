@@ -26,3 +26,7 @@ p {
 
 </body>
 </html>
+
+if 5 > 2:
+  print("Five is greater than two!")
+  
