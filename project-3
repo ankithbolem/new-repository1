@@ -1,0 +1,14 @@
+public void start(Stage stage) 
+	{
+		// Create the Labels
+		Label label = new Label("This is a simple Inline Style Example");
+		Label message = new Label();
+		
+		// Set the Style of the Labels
+		label.setStyle
+		(
+				"-fx-font-family: \"arial\";"
+				+ "-fx-font-size: 16px;"
+				+ "-fx-font-style: normal;"
+				+ "-fx-font-weight: normal;"
+		);
